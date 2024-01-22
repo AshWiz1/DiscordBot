@@ -5,8 +5,7 @@
 
 ## Working : 
 
-* ### Calling the bot : prefix with `!` and expression `findthehomo`
+* ### Calling the bot : prefix with `!` and expression `findthehomo`sapian
 
 ## Utilities : 
-* ### Api Client and Secret at Heroku Process `as******45@gm***`
 * ### Gif at `https://media.giphy.com/media/ZGC27UvQJxXT37XzAh/giphy.gif`
